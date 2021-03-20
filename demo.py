@@ -1,5 +1,5 @@
-keyid = 'rzp_test_2aZu4AsWZNDstl'
-keySecret = '0wvijWyDutLB2CzuNx18T8iv'
+# keyid = 'rzp_test_2aZu4AsWZNDstl'
+# keySecret = '0wvijWyDutLB2CzuNx18T8iv'
 
 import razorpay
 client = razorpay.Client(auth=(keyid, keySecret))
